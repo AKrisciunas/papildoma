@@ -1,126 +1,457 @@
-https://www.example.com
-http://test-site.org
-www.random-url.net
-site123.co.uk
-mywebsite.xyz
-http://example123.com/page?query=1
-https://secure-site.io/login
-www.test123.org/docs
-plainurl.com
-subdomain.website.com
 
-Music is the arrangement of sound to create some combination of form, harmony, melody, rhythm, or otherwise expressive content.[1][2][3] Music is generally agreed to be a cultural universal that is present in all human societies.[4] Definitions of music vary widely in substance and approach.[5] While scholars agree that music is defined by a small number of specific elements, there is no consensus as to what these necessary elements are.[6] Music is often characterized as a highly versatile medium for expressing human creativity.[7] Diverse activities are involved in the creation of music, and are often divided into categories of composition, improvisation, and performance.[8] Music may be performed using a wide variety of musical instruments, including the human voice. It can also be composed, sequenced, or otherwise produced to be indirectly played mechanically or electronically, such as via a music box, barrel organ, or digital audio workstation software on a computer.
 
-Music often plays a key role in social events and religious ceremony. The techniques of making music are often transmitted as part of a cultural tradition. Music is played in public and private contexts, highlighted at events such as festivals and concerts for various different types of ensembles. Music is used in the production of other media, such as in soundtracks to films, TV shows, operas, and video games.
+Vikipedija Laisvoji enciklopedija
 
-Listening to music is a common means of entertainment. The culture surrounding music extends into areas of academic study, journalism, philosophy, psychology, and therapy. The music industry includes songwriters, performers, sound engineers, producers, tour organizers, distributors of instruments, accessories, and publishers of sheet music and recordings. Technology facilitating the recording and reproduction of music has historically included sheet music, microphones, phonographs, and tape machines, with playback of digital musics being a common use for MP3 players, CD players, and smartphones.
-Etymology and terminology
-In Greek mythology, the nine Muses were the inspiration for many creative endeavors, including the arts, and eventually became closely aligned with music specifically.
+    Parama
+    Sukurti paskyrą
+    Prisijungti
 
-The modern English word 'music' came into use in the 1630s.[9] It is derived from a long line of successive precursors: the Old English 'musike' of the mid-13th century; the Old French musique of the 12th century; and the Latin mūsica.[10][7][n 1] The Latin word itself derives from the Ancient Greek mousiké (technē)—μουσική (τέχνη)—literally meaning "(art) of the Muses".[10][n 2] The Muses were nine deities in Ancient Greek mythology who presided over the arts and sciences.[13][14] They were included in tales by the earliest Western authors, Homer and Hesiod,[15] and eventually came to be associated with music specifically.[14] Over time, Polyhymnia would reside over music more prominently than the other muses.[11] The Latin word musica was also the originator for both the Spanish música and French musique via spelling and linguistic adjustment, though other European terms were probably loanwords, including the Italian musica, German Musik, Dutch muziek, Norwegian musikk, Polish muzyka and Russian muzïka.[14]
+[paslėpti]
 
-The modern Western world usually defines music as an all-encompassing term used to describe diverse genres, styles, and traditions.[16] This is not the case worldwide, and languages such as modern Indonesian (musik) and Shona (musakazo) have recently adopted words to reflect this universal conception, as they did not have words that fit exactly the Western scope.[14] Before Western contact in East Asia, neither Japan nor China had a single word that encompasses music in a broad sense, but culturally, they often regarded music in such a fashion.[17] The closest word to mean music in Chinese, yue, shares a character with le, meaning joy, and originally referred to all the arts before narrowing in meaning.[17] Africa is too diverse to make firm generalizations, but the musicologist J. H. Kwabena Nketia has emphasized African music's often inseparable connection to dance and speech in general.[18] Some African cultures, such as the Songye people of the Democratic Republic of the Congo and the Tiv people of Nigeria, have a strong and broad conception of 'music' but no corresponding word in their native languages.[18] Other words commonly translated as 'music' often have more specific meanings in their respective cultures: the Hindi word for music, sangita, properly refers to art music,[19] while the many Indigenous languages of the Americas have words for music that refer specifically to song but describe instrumental music regardless.[20] Though the Arabic musiqi can refer to all music, it is usually used for instrumental and metric music, while khandan identifies vocal and improvised music.[21]
-History
-Main article: History of music
-Origins and prehistory
-Further information: Origins of music and Prehistoric music
-Bone flute from Geissenklösterle, Germany, dated around c. 43,150–39,370 BP.[22]
+Šios savaitės iniciatyva: likime sveiki ir saugūs. Kviečiame prisidėti!
+Turinys
+Pradžia
+Istorija
 
-It is often debated to what extent the origins of music will ever be understood,[23] and there are competing theories that aim to explain it.[24] Many scholars highlight a relationship between the origin of music and the origin of language, and there is disagreement surrounding whether music developed before, after, or simultaneously with language.[25] A similar source of contention surrounds whether music was the intentional result of natural selection or was a byproduct spandrel of evolution.[25] The earliest influential theory was proposed by Charles Darwin in 1871, who stated that music arose as a form of sexual selection, perhaps via mating calls.[26] Darwin's original perspective has been heavily criticized for its inconsistencies with other sexual selection methods,[27] though many scholars in the 21st century have developed and promoted the theory.[28] Other theories include that music arose to assist in organizing labor, improving long-distance communication, benefiting communication with the divine, assisting in community cohesion or as a defense to scare off predators.[29]
+Politinė sistema
 
-Prehistoric music can only be theorized based on findings from paleolithic archaeology sites. The disputed Divje Babe flute, a perforated cave bear femur, is at least 40,000 years old, though there is considerable debate surrounding whether it is truly a musical instrument or an object formed by animals.[30] The earliest objects whose designations as musical instruments are widely accepted are bone flutes from the Swabian Jura, Germany, namely from the Geissenklösterle, Hohle Fels and Vogelherd caves.[31] Dated to the Aurignacian (of the Upper Paleolithic) and used by Early European modern humans, from all three caves there are eight examples, four made from the wing bones of birds and four from mammoth ivory; three of these are near complete.[31] Three flutes from the Geissenklösterle are dated as the oldest, c. 43,150–39,370 BP.[22][n 3]
-Antiquity
-Main article: Ancient music
+Administracinis suskirstymas
 
-The earliest material and representational evidence of Egyptian musical instruments dates to the Predynastic period, but the evidence is more securely attested in the Old Kingdom when harps, flutes and double clarinets were played.[32] Percussion instruments, lyres, and lutes were added to orchestras by the Middle Kingdom. Cymbals[33] frequently accompanied music and dance, much as they still do in Egypt today. Egyptian folk music, including the traditional Sufi dhikr rituals, are the closest contemporary music genre to ancient Egyptian music, having preserved many of its features, rhythms and instruments.[34][35]
+Geografija
 
-The "Hurrian Hymn to Nikkal", found on clay tablets in the ancient Syrian city of Ugarit, is the oldest surviving notated work of music, dating back to approximately 1400 BCE.[36][37]
+Gyventojai
 
-Music was an important part of social and cultural life in ancient Greece, in fact it was one of the main subjects taught to children. Musical education was considered important for the development of an individual's soul. Musicians and singers played a prominent role in Greek theater,[38] and those who received a musical education were seen as nobles and in perfect harmony (as can be read in the Republic, Plato). Mixed gender choruses performed for entertainment, celebration, and spiritual ceremonies.[39] Instruments included the double-reed aulos and a plucked string instrument, the lyre, principally a special kind called a kithara. Music was an important part of education, and boys were taught music starting at age six. Greek musical literacy created significant musical development. Greek music theory included the Greek musical modes, that eventually became the basis for Western religious and classical music. Later, influences from the Roman Empire, Eastern Europe, and the Byzantine Empire changed Greek music. The Seikilos epitaph is the oldest surviving example of a complete musical composition, including musical notation, from anywhere in the world.[40] The oldest surviving work written about music theory is Harmonika Stoicheia by Aristoxenus.[41]
-Asian cultures
-Main article: Music of Asia
+Kultūra ir miesto įžymybės
 
-Asian music covers a swath of music cultures surveyed in the articles on Arabia, Central Asia, East Asia, South Asia, and Southeast Asia. Several have traditions reaching into antiquity.
-Indian women dressed in regional attire playing a variety of musical instruments popular in different parts of India
+Infrastruktūra
 
-Indian classical music is one of the oldest musical traditions in the world.[42] Sculptures from the Indus Valley civilization show dance[43] and old musical instruments, like the seven-holed flute. Stringed instruments and drums have been recovered from Harappa and Mohenjo Daro by excavations carried out by Mortimer Wheeler.[44] The Rigveda, an ancient Hindu text, has elements of present Indian music, with musical notation to denote the meter and mode of chanting.[45] Indian classical music (marga) is monophonic, and based on a single melody line or raga rhythmically organized through talas. The poem Cilappatikaram provides information about how new scales can be formed by modal shifting of the tonic from an existing scale.[46] Present day Hindi music was influenced by Persian traditional music and Afghan Mughals. Carnatic music, popular in the southern states, is largely devotional; the majority of the songs are addressed to the Hindu deities. There are songs emphasizing love and other social issues.
-Indonesia is the home of gong chime, there are variants across Indonesia, especially in Java and Bali.
+Sportas
 
-Indonesian music has been formed since the Bronze Age culture migrated to the Indonesian archipelago in the 2nd-3rd centuries BCE. Indonesian traditional music uses percussion instruments, especially kendang and gongs. Some of them developed elaborate and distinctive instruments, such as the sasando stringed instrument on the island of Rote, the Sundanese angklung, and the complex and sophisticated Javanese and Balinese gamelan orchestras. Indonesia is the home of gong chime, a general term for a set of small, high pitched pot gongs. Gongs are usually placed in order of note, with the boss up on a string held in a low wooden frame. The most popular form of Indonesian music is gamelan, an ensemble of tuned percussion instruments that include metallophones, drums, gongs and spike fiddles along with bamboo suling (like a flute).[47][48]
+    Miestų partnerystė
+    Galerija
+    Taip pat skaitykite
+    Šaltiniai
+    Nuorodos
 
-Chinese classical music, the traditional art or court music of China, has a history stretching over about 3,000 years. It has its own unique systems of musical notation, as well as musical tuning and pitch, musical instruments and styles or genres. Chinese music is pentatonic-diatonic, having a scale of twelve notes to an octave (5 + 7 = 12) as does European-influenced music.[49]
-Western classical
-Main article: Classical music
-Early music
-Breves dies hominis
-Duration: 3 minutes and 32 seconds.3:32
-by Léonin or Pérotin
-Problems playing this file? See media help.
-Musical notation from a Catholic Missal, c. 1310–1320
+Paryžius
 
-The medieval music era (500 to 1400), which took place during the Middle Ages, started with the introduction of monophonic (single melodic line) chanting into Catholic Church services. Musical notation was used since ancient times in Greek culture, but in the Middle Ages, notation was first introduced by the Catholic Church, so chant melodies could be written down, to facilitate the use of the same melodies for religious music across the Catholic empire. The only European Medieval repertory that has been found, in written form, from before 800 is the monophonic liturgical plainsong chant of the Catholic Church, the central tradition of which was called Gregorian chant. Alongside these traditions of sacred and church music there existed a vibrant tradition of secular song (non-religious songs). Examples of composers from this period are Léonin, Pérotin, Guillaume de Machaut, and Walther von der Vogelweide.[50][51][52][53]
+    Straipsnis
+    Aptarimas
 
-Renaissance music (c. 1400 to 1600) was more focused on secular themes, such as courtly love. Around 1450, the printing press was invented, which made printed sheet music much less expensive and easier to mass-produce (prior to the invention of the press, all notated music was hand-copied). The increased availability of sheet music spread musical styles quicker and across a larger area. Musicians and singers often worked for the church, courts and towns. Church choirs grew in size, and the church remained an important patron of music. By the middle of the 15th century, composers wrote richly polyphonic sacred music, in which different melody lines were interwoven simultaneously. Prominent composers from this era include Guillaume Du Fay, Giovanni Pierluigi da Palestrina, Thomas Morley, Orlando di Lasso and Josquin des Prez. As musical activity shifted from the church to aristocratic courts, kings, queens and princes competed for the finest composers. Many leading composers came from the Netherlands, Belgium, and France; they are called the Franco-Flemish composers.[54] They held important positions throughout Europe, especially in Italy. Other countries with vibrant musical activity included Germany, England, and Spain.
-Common practice period
-Baroque
-Main article: Baroque music
-Toccata and Fugue in D minor, BWV 565
-Duration: 8 minutes and 34 seconds.8:34
-Toccata and Fugue by J.S. Bach
-Problems playing this file? See media help.
-J. S. Bach
+    Skaityti
+    Keisti
+    Keisti vikitekstą
+    Istorija
 
-The Baroque era of music took place from 1600 to 1750, coinciding with the flourishing of the Baroque artistic style in Europe. The start of the Baroque era was marked by the penning of the first operas. Polyphonic contrapuntal music (music with separate, simultaneous melodic lines) remained important during this period. German Baroque composers wrote for small ensembles including strings, brass, and woodwinds, as well as for choirs and keyboard instruments such as pipe organ, harpsichord, and clavichord. Musical complexity increased during this time. Several major musical forms were created, some of them which persisted into later periods, seeing further development. These include the fugue, the invention, the sonata, and the concerto.[55] The late Baroque style was polyphonically complex and richly ornamented. Important composers from the Baroque era include Johann Sebastian Bach (Cello suites), George Frideric Handel (Messiah), Georg Philipp Telemann and Antonio Vivaldi (The Four Seasons).
-Classicism
-Main article: Classical period (music)
-Symphony No. 40 G minor
-Duration: 8 minutes and 14 seconds.8:14
-Symphony 40 G minor by W.A. Mozart
-Problems playing this file? See media help.
-Wolfgang Amadeus Mozart was a prolific and influential composer of the Classical period.
+Įrankiai
 
-The music of the Classical period (1730 to 1820) aimed to imitate what were seen as the key elements of the art and philosophy of Ancient Greece and Rome: the ideals of balance, proportion and disciplined expression. (Note: the music from the Classical period should not be confused with Classical music in general, a term which refers to Western art music from the 5th century to the 2000s, which includes the Classical period as one of a number of periods). Music from the Classical period has a lighter, clearer and considerably simpler texture than the Baroque music which preceded it. The main style was homophony,[56] where a prominent melody and a subordinate chordal accompaniment part are clearly distinct. Classical instrumental melodies tended to be almost voicelike and singable. New genres were developed, and the fortepiano, the forerunner to the modern piano, replaced the Baroque era harpsichord and pipe organ as the main keyboard instrument (though pipe organ continued to be used in sacred music, such as Masses).
+Išvaizda
+Tekstas
 
-Importance was given to instrumental music. It was dominated by further development of musical forms initially defined in the Baroque period: the sonata, the concerto, and the symphony. Other main kinds were the trio, string quartet, serenade and divertimento. The sonata was the most important and developed form. Although Baroque composers also wrote sonatas, the Classical style of sonata is completely distinct. All of the main instrumental forms of the Classical era, from string quartets to symphonies and concertos, were based on the structure of the sonata. The instruments used chamber music and orchestra became more standardized. In place of the basso continuo group of the Baroque era, which consisted of harpsichord, organ or lute along with a number of bass instruments selected at the discretion of the group leader (e.g., viol, cello, theorbo, serpent), Classical chamber groups used specified, standardized instruments (e.g., a string quartet would be performed by two violins, a viola and a cello). The practice of improvised chord-playing by the continuo keyboardist or lute player, a hallmark of Baroque music, underwent a gradual decline between 1750 and 1800.[57]
+    Mažas
+    Įprastinis
+    Didelis
 
-One of the most important changes made in the Classical period was the development of public concerts. The aristocracy still played a significant role in the sponsorship of concerts and compositions, but it was now possible for composers to survive without being permanent employees of queens or princes. The increasing popularity of classical music led to a growth in the number and types of orchestras. The expansion of orchestral concerts necessitated the building of large public performance spaces. Symphonic music including symphonies, musical accompaniment to ballet and mixed vocal/instrumental genres, such as opera and oratorio, became more popular.[58][59][60]
+Plotis
 
-The best known composers of Classicism are Carl Philipp Emanuel Bach, Christoph Willibald Gluck, Johann Christian Bach, Joseph Haydn, Wolfgang Amadeus Mozart, Ludwig van Beethoven and Franz Schubert. Beethoven and Schubert are also considered to be composers in the later part of the Classical era, as it began to move towards Romanticism.
-Romanticism
-Main article: Romantic music
-Die Walküre
-Duration: 27 minutes and 57 seconds. 27:57
-Die Walküre by Richard Wagner
-Problems playing this file? See media help.
-The piano was the centrepiece of social activity for middle-class urbanites in the 19th century (Moritz von Schwind, 1868). The man at the piano is composer Franz Schubert.
+    Įprastinis
+    Platus
 
-Romantic music (c. 1820 to 1900) from the 19th century had many elements in common with the Romantic styles in literature and painting of the era. Romanticism was an artistic, literary, and intellectual movement was characterized by its emphasis on emotion and individualism as well as glorification of all the past and nature. Romantic music expanded beyond the rigid styles and forms of the Classical era into more passionate, dramatic expressive pieces and songs. Romantic composers such as Wagner and Brahms attempted to increase emotional expression and power in their music to describe deeper truths or human feelings. With symphonic tone poems, composers tried to tell stories and evoke images or landscapes using instrumental music. Some composers promoted nationalistic pride with patriotic orchestral music inspired by folk music. The emotional and expressive qualities of music came to take precedence over tradition.[61]
+Koordinatės: 48°51′24″ š. pl. 2°21′03″ r. ilg. (ž.)
+Paryžius
+pranc. Paris
+            
+Eifelio bokštas prie Senos upės kranto
+Paryžius
+Paryžius
+48°51′24″ š. pl. 2°21′03″ r. ilg.
+Laiko juosta: (UTC+1)
+------ vasaros: (UTC+2)
+Valstybė 	Prancūzijos vėliava Prancūzija
+Regionas 	Il de Fransas
+Departamentas 	Paryžius
+Įkūrimo data 	250–247 m. pr. m. e.
+Meras 	Anne Hidalgo (PS)
+Gyventojų (2019[1]) 	2 140 526
+Plotas 	105,4 km²
+Tankumas (2019[1]) 	20 309 žm./km²
+Altitudė 	28–131 m
+Pašto kodas 	75056 /75001–75020 ir 75116
+Tinklalapis 	www.paris.fr
+Vikiteka 	Paryžius
+Kirčiavimas 	Parỹžius (sen. Lutècija)
 
-Romantic composers grew in idiosyncrasy, and went further in the syncretism of exploring different art-forms in a musical context, (such as literature), history (historical figures and legends), or nature itself. Romantic love or longing was a prevalent theme in many works composed during this period. In some cases, the formal structures from the classical period continued to be used (e.g., the sonata form used in string quartets and symphonies), but these forms were expanded and altered. In many cases, new approaches were explored for existing genres, forms, and functions. Also, new forms were created that were deemed better suited to the new subject matter. Composers continued to develop opera and ballet music, exploring new styles and themes.[38]
+    Kitos reikšmės – Paryžius (reikšmės).
 
-In the years after 1800, the music developed by Ludwig van Beethoven and Franz Schubert introduced a more dramatic, expressive style. In Beethoven's case, short motifs, developed organically, came to replace melody as the most significant compositional unit (an example is the distinctive four note figure used in his Fifth Symphony). Later Romantic composers such as Pyotr Ilyich Tchaikovsky, Antonín Dvořák, and Gustav Mahler used more unusual chords and more dissonance to create dramatic tension. They generated complex and often much longer musical works. During the late Romantic period, composers explored dramatic chromatic alterations of tonality, such as extended chords and altered chords, which created new sound "colors." The late 19th century saw a dramatic expansion in the size of the orchestra, and the Industrial Revolution helped to create better instruments, creating a more powerful sound. Public concerts became an important part of well-to-do urban society. It also saw a new diversity in theatre music, including operetta, and musical comedy and other forms of musical theatre.[38]
-20th and 21st century
-Main article: 20th-century music
-Landman's 2006 Moodswinger, a 3rd-bridged overtone zither and an example of experimental musical instruments
+Paryžius (pranc. Paris, tariama Apie šį garsą [paʁi] (plačiau)) – Prancūzijos sostinė, Il de Franso administracinio regiono centras. Su 2,14 mln. gyventojų (2020 m.) yra penktas pagal dydį Europos Sąjungos ir devintas pagal dydį Europos žemyno miestas. Įsikūręs Senos upės vingyje, abiejuose upės krantuose.[2] Nuo XVII a. buvo vienas didžiausių Europos finansų, diplomatijos, prekybos, mados, gastronomijos, mokslo ir meno centrų. Visame pasaulyje gerai žinomas dėl gausybės istorinių paminklų bei savo unikalios kultūros.
 
-In the 19th century, a key way new compositions became known to the public was by the sales of sheet music, which middle class amateur music lovers would perform at home, on their piano or other common instruments, such as the violin. With 20th-century music, the invention of new electric technologies such as radio broadcasting and mass market availability of gramophone records meant sound recordings heard by listeners (on the radio or record player) became the main way to learn about new songs and pieces.[62] There was a vast increase in music listening as the radio gained popularity and phonographs were used to replay and distribute music; anyone with a radio or record player could hear operas, symphonies and big bands in their own living room. During the 19th century, the focus on sheet music had restricted access to new music to middle and upper-class people who could read music and who owned pianos and other instruments. Radios and record players allowed lower-income people, who could not afford an opera or symphony concert ticket, to hear this music. As well, people could hear music from different parts of the country, or even different parts of the world, even if they could not afford to travel to these locations. This helped to spread musical styles.[63]
+Paryžius su aplink jį esančiais Aukštutinės Senos, Senos-Sen Deni, Marnos Slėnio departamentais ir Uazos slėnio departamento 1 bei Esono departamento 6 kantonais 814,20 km² teritorijos plote sudaro Didįjį Paryžių, kuriame 2020 m. gyveno 7,2 mln. žmonių (8 843 žm./km² tankumas).[3] Paryžius su Versaliu, Sen Deni, Ivri, Dransi, Aržantėjumi ir kt. miestais yra didžiausia Eurozonos metropolinė zona[4], kuri žinoma kaip Paryžiaus metropolis. Paryžiaus aglomeracija kartais laikomas visas Il de Franso regionas, vadinamas Paryžiaus regionu (région parisienne);[2] 12,33 mln. gyventojų (2020).[5]
 
-The focus of art music in the 20th century was characterized by exploration of new rhythms, styles, and sounds. The horrors of World War I influenced many of the arts, including music, and composers began exploring darker, harsher sounds. Traditional music styles such as jazz and folk music were used by composers as a source of ideas for classical music. Igor Stravinsky, Arnold Schoenberg, and John Cage were influential composers in 20th-century art music. The invention of sound recording and the ability to edit music gave rise to new subgenres of classical music, including the acousmatic[64] and Musique concrète schools of electronic composition. Sound recording was a major influence on the development of popular music genres, because it enabled recordings of songs and bands to be widely distributed. The introduction of the multitrack recording system had a major influence on rock music, because it could do more than record a band's performance. Using a multitrack system, a band and their music producer could overdub many layers of instrument tracks and vocals, creating new sounds that would not be possible in a live performance.[65][66]
+Pramonės įmonės daugiausia sutelktos Paryžiaus aglomeracijos šiaurinėje dalyje;[6] svarbiausios šakos: automobilių pramonė („Citroën“, „Renault“), lėktuvų pramonė, elektrotechnika, poligrafija, maisto perdirbimo, chemijos, lengvoji, madų prekės ir galanterija.
 
-Jazz evolved and became an important genre of music over the course of the 20th century, and during the second half, rock music did the same. Jazz is an American musical artform that originated in the beginning of the 20th century, in African American communities in the Southern United States from a confluence of African and European music traditions. The style's West African pedigree is evident in its use of blue notes, improvisation, polyrhythms, syncopation, and the swung note.[67]
-A selection of guitars and amps at Apple Music Row
+Paryžiuje reziduoja daug tarptautinių organizacijų (žinomiausia – UNESCO). Taip pat yra EBPO būstinė, Tarptautinio valiutos fondo Europos biuras, kitos tarptautinės organizacijos. BNP Paribas, Prancūzijos bankas, daugelis kitų Prancūzijos bankų. Labai išvystytas turizmo sektorius. Daug aukštųjų mokyklų: universitetų (žymiausias – Sorbonos), kolegijų, institutų, akademijų. Nacionalinė biblioteka įkurta dar 1480 metais.
 
-Rock music is a genre of popular music that developed in the 1950s from rock and roll, rockabilly, blues, and country music.[68] The sound of rock often revolves around the electric or acoustic guitar, and it uses a strong back beat laid down by a rhythm section. Along with the guitar or keyboards, saxophone and blues-style harmonica are used as soloing instruments. In its "purest form", it "has three chords, a strong, insistent back beat, and a catchy melody."[69] The traditional rhythm section for popular music is rhythm guitar, electric bass guitar, drums. Some bands have keyboard instruments such as organ, piano, or, since the 1970s, analog synthesizers. In the 1980s, pop musicians began using digital synthesizers, such as the DX-7 synthesizer, electronic drum machines such as the TR-808 and synth bass devices (such as the TB-303) or synth bass keyboards. In the 1990s, an increasingly large range of computerized hardware musical devices and instruments and software (e.g. digital audio workstations) were used. In the 2020s, soft synths and computer music apps make it possible for bedroom producers to create and record types of music, such as electronic dance music, in their home, adding sampled and digital instruments and editing the recording digitally. In the 1990s, bands in genres such as nu metal began including DJs in their bands. DJs create music by manipulating recorded music, using a DJ mixer.[70][71]
-Creation
-Composition
-Main article: Musical composition
-French Baroque music composer Michel Richard Delalande (1657–1726), pen in hand
-People composing music in 2013 using electronic keyboards and computers
+Paryžiaus centras dabartinę išvaizdą įgijo Senos prefekto Žoržo Eženo Osmano dėka, Napoleono III pavedimu 1853–1870 m. Osmanas dirbo prie Paryžiaus perkūrimo ir perstatymo, darbai pagal jo planus truko iki XX a. trečio dešimtmečio pabaigos.[7]
+Istorija
+Antika
 
-"Composition" is the act or practice of creating a song, an instrumental music piece, a work with both singing and instruments, or another type of music. In many cultures, including Western classical music, the act of composing also includes the creation of music notation, such as a sheet music "score", which is then performed by the composer or by other singers or musicians. In popular music and traditional music, the act of composing, which is typically called songwriting, may involve the creation of a basic outline of the song, called the lead sheet, which sets out the melody, lyrics and chord progression. In classical music, the composer typically orchestrates his or her own compositions, but in musical theatre and in pop music, songwriters may hire an arranger to do the orchestration. In some cases, a songwriter may not use notation at all, and instead, compose the song in her mind and then play or record it from memory. In jazz and popular music, notable recordings by influential performers are given the weight that written scores play in classical music.[72][73]
+Miestą įkūrė galų gentis Parisii apie 250–247 m. pr. m. e. Senos saloje (kuri dabar vadinama pranc. Île de la Cité). Pirma kartą rašytiniuose šaltiniuose Lutetia paminėta 53 m. pr. m. e. šeštojoje Julijaus Cezario knygoje apie Galų karą (De bello Gallico). Apie 52 m. pr. m. e. romėnai užėmė miestą. Romėnų miestas įsikūrė kairiajame Senos krante. Romėnų laikais buvo žinomas kaip Civitas Parisiorum arba Parisia.
 
-Even when music is notated relatively precisely, as in classical music, there are many decisions that a performer has to make, because notation does not specify all of the elements of music precisely. The process of deciding how to perform music that has been previously composed and notated is termed "interpretation". Different performers' interpretations of the same work of music can vary widely, in terms of the tempos that are chosen and the playing or singing style or phrasing of the melodies. Composers and songwriters who present their own music are interpreting their songs, just as much as those who perform the music of others. The standard body of choices and techniques present at a given time and a given place is referred to as performance practice, whereas interpretation is generally used to mean the individual choices of a performer.[74]
+III–IV a. miestas jau vadinamas Parisii, o dabartiniu vardu imtas vadinti nuo V a., kai 486 metais frankų karalius Chlodvigas I po pergalės prieš romėnus čia perkėlė savo valstybės sostinę.
+Paryžius 1493 m.
+Viduramžiai
 
-Although a musical composition often uses musical notation and has a single author, this is not always the case. A work of music can have multiple composers, which often occurs in popular music when a band collaborates to write a song, or in musical theatre, when one person writes the melodies, a second person writes the lyrics, and a third person orchestrates the songs. In some styles of music, such as the blues, a composer/songwriter may create, perform and record new songs or pieces without ever writing them down in music notation. A piece of music can also be composed with words, images, or computer programs that explain or notate how the singer or musician should create musical sounds. Examples range from avant-garde music that uses graphic notation, to text compositions such as Aus den sieben Tagen, to computer programs that select sounds for musical pieces. Music that makes heavy use of randomness and chance is called aleatoric music,[75] and is associated with contemporary composers active in the 20th century, such as John Cage, Morton Feldman, and Witold Lutosławski. A commonly known example of chance-based music is the sound of wind chimes jingling in a breeze.
+Po Romos imperijos žlugimo, visų pirma mieste atsirado religinė architektūra. Tuo tarpu frankų karaliai norėjo užimti buvusius romėnų rūmus, esančius Senos saloje (pranc. Île de la Cité). Per daugelį metų rūmai buvo perstatyti ir išplėsti, dabar jie vadinami Palais de la Cité.
 
-The study of composition has traditionally been dominated by examination of methods and practice of Western classical music, but the definition of composition is broad enough to include the creation of popular music and traditional music songs and instrumental pieces as well as spontaneously improvised works like those of free jazz performers and African percussionists such as Ewe drummers. 
+VI a. apgyvendintas dešinysis Senos krantas, čia pastatyta Šventojo Gervazo bažnyčia. 885 metais kairįjį upės krantą visiškai sunaikino vikingai. Nuo X a. Paryžius – frankų valstybės sostinė.
+
+Miesto rūmai, šiandieninis Luvras, yra įvairių statybų, kurias įsakydavo pradėti Viduramžių, Renesanso, Baroko ir Antrosiosios imperijos laikų karaliai, rezultatas. Svarbus tuometinio Prancūzijos prezidento Fransua Miterando iniciatyva 1981 metais įrengtas Luvro požemis, kuris buvo trūkstama infrastruktūros dalis į Luvrą atsikėlusiam muziejui.
+Bastilijos šturmas 1789 m. liepos 14 d.
+Naujieji laikai
+
+Religinių konfliktų metu, nuo 1562 m. iki 1598 m., miestas buvo valdomas katalikų. Per Šventojo Baltramiejaus naktį 1572 m. rugpjūčio 24 d. Paryžiuje buvo nužudyta tūkstančiai hugenotų.
+
+Didžioji Prancūzijos revoliucija prasidėjo 1789 m. liepos 14 d. Bastilijos šturmu Paryžiuje (dabar tai Prancūzijos nacionalinė šventė). Paryžius gavo departamento teises pagal Didžiosios Prancūzijos revoliucijos 1789 m. gruodžio 22 d. įstatymą 1790 m. kovo 4 d. kartu su kitais 82 departamentais. Departamento ribos pertvarkytos 1968 m. sausio 1 d. pagal 1964 m. liepos 10 d. įstatymą, patvirtintą 1965 m. vasario 25 d. dekretu. Nuo 1968 m. turi ir miesto savivaldybės, ir departamento teises.
+Politinė sistema
+
+Generalinę tarybą sudaro 163 nariai, kurių po pusę renkami kas trejus metus šešerių metų kadencijai. Paryžiuje yra įsikūrusi vyriausybė. Eliziejaus rūmuose reziduoja Prezidentas, Matinjone – Ministras Pirmininkas.
+Paryžiaus panorama nuo Eifelio bokšto
+Administracinis suskirstymas
+Paryžiaus apskritys
+
+Paryžius administraciškai yra suskirstytas į 20 apskričių[8], kurių kiekviena suskirstyta į 4 kvartalus:
+
+    Luvras (Louvre)
+    Birža (Bourse)
+    Tamplis (Temple)
+    Rotušė (Hôtel de Ville)
+    Panteonas (Panthéon)
+    Liuksemburgas (Luxembourg)
+    Burbonų Rūmai (Palais Bourbon)
+    Eliziejus (Elysée)
+    Opera (Opéra)
+    Antrepo (Entrepôt)
+    Popenkūras (Popincourt)
+    Reji (Reuilly)
+    Goblenas (Gobelins)
+    Observatorija (Observatoire)
+    Vožiraras (Vaugirard)
+    Pasi (Passy)
+    Batinjolis-Monso (Batignolles-Monceaux)
+    Monmartro Kalva (Butte-Montmartre)
+    Šomono Kalvos (Buttes-Chaumont)
+    Menilmontanas (Ménilmontant)
+
+Paryžiaus Dievo Motinos katedra Senos Sitė saloje
+Geografija
+
+Miesto plotas nuo 2013 metų yra 105,4 km². Paryžius išsidėstęs viduryje Paryžiaus žemumos, vidutinis aukštis yra 65 m virš jūros lygio. Aplink miestą yra du miškai, kurie skirti gyventojams atsipalaiduoti. Per miestą teka upė Sena, kuri Paryžių skiria į dvi dalis ir jungia su Burgundija–Franš Kontė, bei išteka Lamanšo sąsiauryje. Upė buvo svarbiausias miesto įkūrimo ir vystymosi faktorius. Paryžiuje yra 3 svarbios upės Senos salos: Île de la Cité, Île Saint-Louis, Île des Cygnes.
+
+Paryžiaus departamentas ribojasi su Prancūzijos „Mažosios karūnos“, sostinės regionu, kurį sudaro Aukštutinė Sena, Sena-Sen Deni ir Marnos slėnis. „Didžiąją karūną“ sudaro Uazos slėnis, Ivlinas, Esonas bei Sena ir Marna.
+Klimatas
+
+Pagal Köppen’o klimato klasifikaciją – Paryžiaus klimatas vidutinių platumų, jūrinis. Vidutinė metinė temperatūra yra 10,8 °C. Vidutiniškai per metus iškrenta 649,6 mm kritulių.
+
+Šilčiausias mėnuo yra liepa, kurios vidutinė temperatūra yra 18,4 °C, šalčiausias mėnuo yra sausis, kurio vidutinė temperatūra yra 3,5 °C. Daugiausia kritulių iškrenta gegužę, per kurią iškrenta vidutiniškai 65 mm kritulių, o mažiausiai kritulių iškrenta rugpjūtį – vidutiniškai 43,0 mm.
+
+Nuo 1873 m. Paryžiuje reguliariai yra atliekami meteorologiniai matavimai. Iki šiol žemiausia užfiksuota temperatūra buvo 1879 m. gruodžio 10 d. – -23,9 °C. Šilumos rekordas užfiksuotas 2019 m. liepos 25 d. ir siekęs 42,6 °C.[9]
+[slėpti] Paryžiaus (Parc Montsouris), 1981–2010 m. klimatas 
+Mėnuo 	Sau 	Vas 	Kov 	Bal 	Geg 	Bir 	Lie 	Rgp 	Rgs 	Spa 	Lap 	Gru 	Metinis
+Aukščiausia °C 	16,1 	21,4 	26,0 	30,2 	34,8 	37,6 	42,6 	39,5 	36,2 	28,9 	21,6 	17,1 	42,6
+Vid. aukščiausia °C 	7,2 	8,3 	12,2 	15,6 	19,6 	22,7 	25,2 	25,0 	21,1 	16,3 	10,8 	7,5 	16,0
+Vid. žemiausia °C 	2,7 	2,8 	5,3 	7,3 	10,9 	13,8 	15,8 	15,7 	12,7 	9,6 	5,8 	3,4 	8,8
+Žemiausia °C 	−14,6 	−14,7 	−9,1 	−3,5 	−0,1 	3,1 	2,7 	6,3 	1,8 	−3,8 	−14,0 	−23,9 	−23,9
+Krituliai mm 	51,0 	41,2 	47,6 	51,8 	63,2 	49,6 	62,3 	52,7 	47,6 	61,5 	51,1 	57,8 	637,4
+Duomenys: Météo-France[10][11]
+Gyventojai
+2018 m. Paryžiaus regiono gyv. sur.[12][13]
+Gimtoji valstybė / teritorija 	Gyventojų
+Prancūzija Metropolinė Prancūzija 	9 177 492
+Alžyro vėliava Alžyras 	329 863
+Maroko vėliava Marokas 	252 801
+Portugalijos vėliava Portugalija 	232 769
+Tuniso vėliava Tunisas 	127 449
+Gvadelupos vėliava Gvadelupa 	80 785
+Martinikos vėliava Martinika 	75 446
+Kinijos vėliava Kinija 	70 988
+Turkijos vėliava Turkija 	67 738
+Malio vėliava Malis 	66 422
+Dramblio Kaulo Kranto vėliava Dramblio Kaulo Krantas 	63 784
+Senegalo vėliava Senegalas 	60 214
+Italijos vėliava Italija 	57 732
+Rumunijos vėliava Rumunija 	53 457
+Kongo Demokratinės Respublikos vėliava Kongo Demokratinė Respublika 	52 222
+Šri Lankos vėliava Šri Lanka 	45 603
+Ispanijos vėliava Ispanija 	45 492
+Kamerūno vėliava Kamerūnas 	45 250
+Kongo Respublikos vėliava Kongo Respublika 	38 546
+Haičio vėliava Haitis 	36 600
+Lenkijos vėliava Lenkija 	35 576
+Vietnamo vėliava Vietnamas 	35 044
+Kambodžos vėliava Kambodža 	30 215
+Reunjono vėliava Reunjonas 	29 947
+Indijos vėliava Indija 	29 509
+Serbijos vėliava Serbija 	25 473
+Libano vėliava Libanas 	20 953
+Madagaskaro vėliava Madagaskaras 	20 896
+Vokietijos vėliava Vokietija 	20 352
+Pakistano vėliava Pakistanas 	20 119
+Rusijos vėliava Rusija 	18 942
+Mauricijaus vėliava Mauricijus 	18 793
+Gvinėjos vėliava Gvinėja 	18 714
+Brazilijos vėliava Brazilija 	17 732
+Jungtinės Karalystės vėliava Jungtinė Karalystė 	17 692
+Jungtinių Amerikos Valstijų vėliava Jungtinės Amerikos Valstijos 	17 492
+Jungtinių Tautų Organizacija Kitos šalys ir teritorijos 	855 046
+
+Antikoje ir viduramžiais, dėl daugybės karų, epidemijų ir bado, gyventojų skaičius tarpais sumažėdavo. Tik XIX amžiuje dėl Industrializacijos gyventojų skaičius stipriai išaugo. 1846 m. Paryžiuje gyveno milijonas žmonių, iki 1876 m. gyventojų skaičius padvigubėjo. 1921 m. Paryžiaus gyventojų skaičius pasiekė didžiausią istorijoje gyventojų skaičių, mieste gyveno beveik 3 milijonai gyventojų. Dabar mieste gyvena daugiau nei 2 milijonai žmonių. Paryžiaus aglomeracijoje, gyventojų skaičius augo sparčiai. 1921 m. aglomeracijoje gyveno 4,85 mln. gyventojų, o 2006 m. jau 11,6 mln. gyventojų.
+Demografinė raida tarp 150 m. ir 2021 m.
+150 m. 	510 m. 	1000 m. 	1200 m. 	1250 m. 	1300 m.
+80 000 	30 000 	20 000 	110 000 	160 000 	228 000
+1328 m. 	1340 m. 	1400 m. 	1500 m. 	1796 m. 	1851 m.sur.
+250 000 	300 000 	280 000 	200 000 	556 304 	1 053 262
+1896 m.sur. 	1901 m.sur. 	1911 m.sur. 	1921 m.sur. 	1936 m.sur. 	1946 m.sur.
+2 536 834 	2 714 068 	2 888 110 	2 906 472 	2 829 753 	2 725 374
+1975 m.sur. 	1990 m. 	1999 m.sur. 	2005 m. 	2015 m. 	2021 m.
+2 299 830 	2 152 423 	2 125 246 	2 153 600 	2 206 488 	2 187 526
+[rodyti]
+Demografinės raidos histograma
+Kultūra ir miesto įžymybės
+Paryžiaus Triumfo arka
+Mada ir menas
+Luvro stiklinė piramidė
+
+Paryžius – tarptautinis aukštosios mados (haute couture) centras („Chanel S. A.“, „ Louis Vuitton“, „Christian Dior S. A.“, „Pierre Cardin“, „Hermès International S. A.“ ir kiti mados namai); prabangos prekių („PPR S. A.“ bendrovė), parfumerijos („Bourjois“, „Givenchy“), kosmetikos („L’Oréal S. A.“), galanterijos, juvelyrinių dirbinių gamyba.
+
+XVII amžiuje madas ir taisykles Europai diktavo Paryžius, kuris išlaiko mados ir meno sostinės reputaciją iki šių dienų.
+Renginiai
+
+Mieste įvyko net 6 Pasaulinės parodos (daugiau nei kur kitur): 1855, 1867, 1878, 1889, 1900 ir 1937 m. Nuo 1898 m. kas antrus metus rengiama Paryžiaus automobilių paroda, o nuo 1909 m. nelyginiais metais – didžiausia ir seniausia aviacijos paroda pasaulyje.
+Operos, muziejai
+
+Mieste daug teatrų (Didžioji opera, Bastilijos opera, Prancūzijos komedija ir kt.), Žoržo Pompidu Nacionalinis meno ir kultūros centras. Priskaičiuojama net 130 muziejų, tarp kurių žymiausi Luvras, Orsė muziejus, Gimė, Žmogaus muziejus, Istorijos muziejus ir kt. Luvras išlieka lankomiausiu meno muziejumi pasaulyje.[14]
+Statiniai
+
+Geriausiai žinomi Paryžiaus pastatai – Eifelio bokštas, Triumfo arka (1806–1837 m.), Luvras (pradėtas statyti 1546), Dievo Motinos katedra. Žymiausia gatvė – Eliziejaus laukai. Nors miesto architektūra formavosi daugelį amžių ir ji įtakota daugelio stilių, tačiau meninis vientisumas yra išlaikytas.
+
+Daug bažnyčių (žymiausia – Dievo Motinos arba Notre-Dame), administracinių pastatų, paminklų. Sen Žermen de Prė bažnyčioje 1672 m. palaidota Lietuvos–Lenkijos karaliaus Jono Kazimiero širdis. Koplyčią-mauzoliejų, puošia skulptoriaus J. Thibault bareljefas, vaizduojantis lietuvių ir lenkų mūšį prieš kazokus.[15] Šv. Severino bažnyčia su Vilniaus Aušros Vartų Švč. Mergelės Marijos, Gailestingumo Motinos, koplyčios paveikslo kopija.
+
+Ant Teisingumo rūmų (pranc. Palais de Justice) bokšto (pranc. Tour de l'Horloge) įrengtas pirmasis miesto laikrodis, tai buvo padaryta Prancūzijos valdovo Henriko Valua įsakymu. Prieš tai jis karaliavo Abiejų Tautų valstybėje, todėl virš laikrodžio esantis herbas apjungia Prancūzijos, Lietuvos ir Lenkijos valstybinius simbolius.[16]
+
+Išskirtinę vertę turi žymių skulptorių Jano ir Joëlio Martelių namai–studija, kuriuos projektavo pasaulinio garso architektas Robertas Mallet-Stevensas. Per Antrąjį pasaulinį karą į Paryžių pasitraukęs lietuvių skulptorius Antanas Mončys buvo vedęs Jano Martelio dukterį Florencę, pokaryje šiame pastate (12, rue Mallet-Stevens) rinkdavosi ir repetuodavo Prancūzijos lietuvių šokių kolektyvas.[17]
+Infrastruktūra
+Transportas
+
+Tai svarbus transporto mazgas. Miesto transporto sistemą sudaro 2 tarptautiniai oro uostai (Šarlio de Golio ir Orli), vandens transportas, automagistraliniai automobilų keliai, geležinkelis, viešasis transportas (autobusai, tramvajai, metro). Uostas, pro kurį iš Paryžiaus keliauja daugiausia prekių, yra Havre.
+Elektros energija
+
+Elektra miestui teikiama per periferinius elektros tinklus ir iš įvairių šaltinių. 2012 m. apie 50% elektros pagamindavo kogeneracinės jėgainės, esančios atokiau nuo Paryžiaus, 35% – Nožano atominė jėgainė. Kiti šaltiniai – šiukšlių deginimas (9%, kartu su kogeneracinėmis jėgainėmis, miestui teikiančiomis šilumą), metano dujos (5%), hidraulika (1%), saulės elektrinės (0,1%) ir vėjo jėgainės (<0,1%).[18] Ketvirtadalis energijos šildymui išgaunama Sen Uene per Senoje esančioje jėgainėje, kurioje deginamas anglies mišinys ir iš JAV importuotos medienos granulės.[19]
+Vanduo ir švara
+
+Istoriškai paryžiečiai naudojo Senos ir Bievro upių vandenį. 1809 m. iškasus Urko kanalą miestas galėjo naudoti mažiau užterštą vandenį savo reikmėms.
+Parkai ir sodai
+
+Paryžiuje yra 421 savivaldybės parkai ir sodai, užimtantys 3000 ha plotą. Juose auga 250 000 medžių. Du seniausi ir žymiausi parkai yra Tvileri sodas (įkurtas 1564 m. tokio paties pavadinimo rūmams, 1664–1672 m. perdarytas) ir Liuksemburgo sodas, įrengtas Liuksemburgo rūmuose gyvenusiai Mari de Medici 1612 m. (dabartinė Senato vieta). Jardin des plantes buvo pirmasis miesto botanikos sodas, 1626 m. įsteigtas Liudviko XIII daktaro Guy de La Brosse medicininiams augalams gaminti.
+Kapinės
+
+Didžiausios kapinės mieste – Paryžiaus katakombos, įsteigtos 1810 m. Skaičiuojama, kad jose palaidota 6 mln. asmenų.
+Sveikatos paslaugos
+
+Sveikatos paslaugas ir greitąją medicininę pagalbą mieste ir priemiesčiuose teikia Assistance publique – Hôpitaux de Paris valstybinių ligoninių tinklas, kurį sudaro 44 ligoninės, kuriose dirba 90 000 asmenų (įskaitant rezidentus, pagalbinį personalą ir vadybininkus). Tai didžiausias toks ligoninių tinklas Europoje, kasmet priimantis 5.8 mln. pacientų. Seniausia ligoninė Paryžiuje, Hôtel-Dieu, pastatyta dar 651 m.
+Sportas
+
+Paryžiuje vyksta daug garsių sporto renginių, tokių kaip: Tour de France tradiciškai pasibaigia Paryžiuje, Paryžiaus maratonas, Prancūzijos atvirasis teniso čempionatas, Meeting Gaz de France lengvosios atletikos varžybos, Trophée Lalique dailiojo čiuožimo rungtynės ir Šešių tautų regbio turnyras.
+
+1900 m. Paryžiuje vyko II vasaros olimpinės žaidynės, o 1924 m. – VIII vasaros olimpinės žaidynės. Po šimto metų, 2024 m. mieste vyks XXXIII vasaros olimpinės Žaidynės.
+Futbolas
+
+Paryžiuje įsikūrę daug futbolo klubų:
+
+    Paris Saint-Germain FC
+    CAP Charenton
+    Club Français Paris
+    Stade Français Paris
+    Paris Jean-Bouin
+    Olympique de Paris
+    RCF Paris
+    Red Star FC 93
+
+Mieste 1938 m. vyko III pasaulio futbolo čempionatas, 1960 m. – I Europos futbolo čempionatas, 1984 m. – VII Europos futbolo čempionatas, o 1998 m. – XVI pasaulio futbolo čempionatas.
+Regbis
+
+    Stade Français
+    Racing Métro 92
+
+Mieste 2007 m. vyko VI pasaulio regbio čempionatas, kurio finalas buvo žaidžiamas Stade de France.
+Miestų partnerystė
+
+Paryžius turi vieną pagrindinį miestą partnerį ir kitus miestus partnerius.
+
+    Broliškas miestas – Roma, Italija.[20][21] Šių dviejų miestų draugystę puikiai parodo jų šūkis – prancūziškai: Seule Paris est digne de Rome; seule Rome est digne de Paris; itališkai: Solo Parigi è degna di Roma; solo Roma è degna di Parigi; lietuviškai: Tik Paryžius vertas Romos; tik Roma verta Paryžiaus.[22]
+
+Miestai partneriai:[20]
+
+    Japonijos vėliava Japonija, Kiotas (1958)
+    Japonijos vėliava Japonija, Tokijas (1982)
+    Egipto vėliava Egiptas, Kairas (1985)
+    Jordanijos vėliava Jordanija, Amanas (1987)
+    Vokietijos vėliava Vokietija, Berlynas (1987)
+    Jemeno vėliava Jemenas, Sana (1987)
+    Pietų Korėjos vėliava Pietų Korėja, Seulas (1991)
+    Libano vėliava Libanas, Beirutas (1992)
+    Rusijos vėliava Rusija, Maskva (1992)
+
+	
+
+    Indonezijos vėliava Indonezija, Džakarta (1995)
+    Jungtinių Amerikos Valstijų vėliava Jungtinės Amerikos Valstijos, Čikaga (1996)
+    Jungtinių Amerikos Valstijų vėliava Jungtinės Amerikos Valstijos, San Franciskas (1996)
+    Kinijos vėliava Kinija, Pekinas (1997)
+    Čekijos vėliava Čekija, Praha (1997)
+    Saudo Arabijos vėliava Saudo Arabija, Rijadas (1997)
+    Rusijos vėliava Rusija, Sankt Peterburgas (1997)
+    Čilės vėliava Čilė, Čilės Santjagas (1997)
+    Gruzijos vėliava Gruzija, Tbilisis (1997)
+    Armėnijos vėliava Armėnija, Jerevanas (1998)
+    Portugalijos vėliava Portugalija, Lisabona (1998)
+
+	
+
+    Bulgarijos vėliava Bulgarija, Sofija (1998)
+    Australijos vėliava Australija, Sidnėjus (1998)
+    Meksikos vėliava Meksika, Meksikas (1999)
+    Lenkijos vėliava Lenkija, Varšuva (1999)
+    Argentinos vėliava Argentina, Buenos Airės (1999)
+    Graikijos vėliava Graikija, Atėnai (2000)
+    Ispanijos vėliava Ispanija, Madridas (2000)
+    Jungtinių Amerikos Valstijų vėliava Jungtinės Amerikos Valstijos, Vašingtonas (2000)
+    Jungtinės Karalystės vėliava Jungtinė Karalystė, Londonas (2001)
+    Brazilijos vėliava Brazilija, Porto Alegrė (2001)
+    Šveicarijos vėliava Šveicarija, Ženeva (2002)
+
+	
+
+    Alžyro vėliava Alžyras, Alžyras (2003)
+    Kanados vėliava Kanada, Kvebekas (2003)
+    Brazilijos vėliava Brazilija, San Paulas (2004)
+    Maroko vėliava Marokas, Rabatas (2004)
+    Maroko vėliava Marokas, Kasablanka (2004)
+    Tuniso vėliava Tunisas, Tunisas (2004)
+    Danijos vėliava Danija, Kopenhaga (2005)
+    Kanados vėliava Kanada, Monrealis (2006)
+
+Galerija
+
+    Paryžiaus opera
+    Paryžiaus opera
+    Orsė muziejus
+    Orsė muziejus
+    Paryžiaus panteonas
+    Paryžiaus panteonas
+    Eliziejaus laukai
+    Eliziejaus laukai
+    Teisingumo rūmų laikrodis su Prancūzijos, Lietuvos ir Lenkijos valstybiniais simboliais
+    Teisingumo rūmų laikrodis su Prancūzijos, Lietuvos ir Lenkijos valstybiniais simboliais
+    Paryžiaus metro
+    Paryžiaus metro
+    Burbonų rūmai
+    Burbonų rūmai
+    Dievo Motinos katedra
+    Dievo Motinos katedra
+    Paryžiaus panorama iš Eifelio bokšto
+    Paryžiaus panorama iš Eifelio bokšto
+    Bulono miškas (parkas)
+    Bulono miškas (parkas)
+    Administracinio Paryžiaus fizinis-hidrologinis žemėlapis
+    Administracinio Paryžiaus fizinis-hidrologinis žemėlapis
+    Tolumoje matyti Didžiojo Paryžiaus ribose esantis La Défense verslo centras (2013 m.)
+    Tolumoje matyti Didžiojo Paryžiaus ribose esantis La Défense verslo centras (2013 m.)
+
+Taip pat skaitykite
+
+    Didysis Paryžius
+    Paryžiaus metropolinė zona
+    Pagal gyventojų skaičių didžiausių Europos miestų sąrašas
+
+Šaltiniai
+
+Populations légales 2018. Institut national de la statistique et des études économiques. Nuoroda tikrinta 2020-12-28.
+Paris. Visuotinė lietuvių enciklopedija. Nuoroda tikrinta 2021-11-17.
+metropolegrandparis.fr / Une Métropole mondiale
+Stefan Helders, World Gazetteer. „"World Metropolitan Areas"“. Suarchyvuota iš originalo 2007-10-01. Nuoroda tikrinta 2007-01-18.
+eurostat.ec.europa.eu / Population on 1 January by broad age group, sex and metropolitan regions | Last update: 30-06-2021
+Prancūzijos ekonomika
+„Žmogus, kuris sukūrė Paryžių“. Kelionės. Delfi. 2016-02-04. Nuoroda tikrinta 2024-03-12.
+https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006396737/
+„42.6 °C à Paris : record absolu de chaleur battu !“. meteofrance.fr. Météo France. Suarchyvuota iš originalo 25 July 2019. Nuoroda tikrinta 25 July 2019.
+„Climatological Information for Paris, France“. Meteo France. August 2011. Suarchyvuotas originalas 24 April 2020. Nuoroda tikrinta 4 April 2017.
+„Paris–Montsouris (984)“ (PDF). Fiche Climatologique: Statistiques 1981–2010 et records (prancūzų). Meteo France. Suarchyvuotas originalas (PDF) 27 February 2018. Nuoroda tikrinta 26 February 2018.
+INSEE. „Données harmonisées des recensements de la population 1968-2018“ (prancūzų). Nuoroda tikrinta 2022-04-23.
+INSEE. „IMG1B - Population immigrée par sexe, âge et pays de naissance en 2018 - Région d’Île-de-France (11)“ (prancūzų). Nuoroda tikrinta 2022-04-23.
+„Visitor Figures 2020“, „The Art Newspaper“ March 31, 2021.
+Benjaminas Mašalaitis: Lietuvos valdovų nekropoliai užsienyje
+Pasaulio Lietuvių Jaunimo Sąjunga. Lietuvybės paieškos Paryžiuje
+Antano Mončio jėga ir švelnumas (Viktorą Liutkų kalbina Giedrė Jankevičiūtė) // Naujasis Židinys–Aidai, 2021 m. Nr. 4, psl. 34]
+„La production électrique en IdF“ (PDF). La DRIEE – Prefet de la région d'Île-de-France. Suarchyvuota (PDF) iš originalo 7 October 2015. Nuoroda tikrinta 11 November 2015.
+„Paris to be heated with US wood pellets“. Global Wood Markets Info. 11 March 2016. Suarchyvuota iš originalo 12 March 2016. Nuoroda tikrinta 11 March 2016.
+„Friendship and cooperation agreements“. Mairie de Paris. Paris.fr. Suarchyvuotas originalas 3 balandžio 2016. Nuoroda tikrinta 10 rugsėjo 2016.
+„Twinning Rome – Paris“ (PDF) (prancūzų). 1956-01-30. Suarchyvuota (PDF) iš originalo 2018-11-13. Nuoroda tikrinta 2018-02-28.
+„Roma – Relazioni Internazionali Bilaterali“ (italų). Commune Roma. Suarchyvuota iš originalo 2016-07-09. Nuoroda tikrinta 2016-09-10.
+
+    „Hey, is San Francisco Really a "Sister City" of Paris, France? No – Was It Before? No, Not At All – Here's Why“. San Francisco Citizen. Suarchyvuota iš originalo 2018-02-28. Nuoroda tikrinta 2018-02-27.
+
+Nuorodos
+Portal
+Vikisritis: Prancūzija
+
+    paris.fr / Le site Paris.fr est un site d’information, placé sous la responsabilité de la Direction de l’Information et de la Communication de la Mairie de Paris
+    parisinfo.com / Site officiel de l’Office du Tourisme et des Congrès
+    leparisien.fr / Le Parisien
+    fr.mfa.lt / Lietuvos Respublikos pasiuntinybė Prancūzijoje (Paryžiuje) Archyvuota kopija 2011-07-22 iš Wayback Machine projekto.
+    tripadvisor.co.uk / Paris, France
+    britannica.com / Paris
+    google.co.uk / Paris, France
+    free.fr / Paryžiaus metro žemėlapis PDF formate ir ir PNG formate
+    timeanddate.com / Local time in Paris
+    meteofrance.com / Orai Paryžiuje[neveikianti nuoroda]
+    meteo-paris.com / Paryžiaus dangus realiu laiku
+    Paryžiaus vietovardžiai // Lietuvos literatūros vertėjų sąjungos inf.
+
+[rodyti]
+Ž • A • R
+Prancūzijos departamentai
+[rodyti]
+Ž • A • R
+Europos šalių sostinės
+[rodyti]
+Ž • A • R
+Pasaulio paveldo objektai Prancūzijoje
+Kategorijos:
+
+    Pasaulio paveldo objektai PrancūzijojeMilijoniniai miestaiSostinėsPrancūzijos departamentaiParyžius
+
+    Šis puslapis paskutinį kartą keistas 19 rugpjūčio 2024 22:10.
+    Tekstas pateikiamas pagal Creative Commons Attribution/Share-Alike Licenciją; gali būti taikomos papildomos sąlygos. Detaliau – Terms of Use .
+
+    Privatumo politika
+    Apie Vikipediją
+    Jokių garantijų
+    Code of Conduct
+    Kūrėjai
+    Statistika
+    Slapukų politika
+    Mobili peržiūra
+
+    Wikimedia Foundation
+    Powered by MediaWiki
+
+
+    site.site
+    wiki.doc
+    wiki.xyz
+    wiki.gov 
+    doc.docx
+    doc.pdf 
+    doc.jpg
+    
+

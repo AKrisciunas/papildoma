@@ -5,18 +5,49 @@
 #include <set>
 #include <regex>
 #include <string>
-#include <iomanip> 
+#include <iomanip>
 #include <cctype> // tolower, isalnum
+#include <codecvt>
+#include <locale>
 
 using namespace std;
 
-// remove punctuation
+std::wstring utf8ToWstring(const std::string &str) {
+    std::wstring_convert<std::codecvt_utf8<wchar_t>> converter;
+    return converter.from_bytes(str);
+}
+
+std::string wstringToUtf8(const std::wstring &wstr) {
+    std::wstring_convert<std::codecvt_utf8<wchar_t>> converter;
+    return converter.to_bytes(wstr);
+}
+
+// remove punctuation 
 string cleanWord(const string &word) {
-    string cleaned;
-    for (unsigned char c : word) { 
-        if (isalnum(c)) cleaned += tolower(c);
+    std::wstring wword = utf8ToWstring(word);
+    std::wstring wcleaned;
+    for (wchar_t wc : wword) {
+        if (iswalnum(wc)) { 
+            wcleaned += towlower(wc); 
+        }
     }
-    return cleaned;
+    return wstringToUtf8(wcleaned);
+}
+
+void findWordsWithSubstring(const string &substring, const set<string> &uniqueWords, const string &outputFilename) {
+    ofstream output(outputFilename);
+    if (!output.is_open()) {
+        cerr << "Error: Unable to open the output file." << endl;
+        return;
+    }
+
+    output << "Words containing \"" << substring << "\":" << endl;
+    for (const string &word : uniqueWords) {
+        if (word.find(substring) != string::npos) {
+            output << word << endl;
+        }
+    }
+    output.close();
 }
 
 int main() {
@@ -29,9 +60,10 @@ int main() {
         return 1;
     }
 
-    map<string, int> wordCount;
-    map<string, set<int>> wordLines;
+    map<string, int> wordCount;         // to tell how many
+    map<string, set<int>> wordLines;    // to tell where word occurs
     set<string> urls;
+    set<string> uniqueWords;           // unique words search
 
     string fileLine;
     int lineNumber = 0;
@@ -56,6 +88,7 @@ int main() {
             if (!cleaned.empty()) {
                 wordCount[cleaned]++;
                 wordLines[cleaned].insert(lineNumber);
+                uniqueWords.insert(cleaned); 
             }
         }
     }
@@ -75,6 +108,11 @@ int main() {
     for (const string &url : urls) {
         urlOutput << url << endl;
     }
+
+    cout << "Enter a substring to search for: ";
+    string substring;
+    cin >> substring;
+    findWordsWithSubstring(substring, uniqueWords, "output2.txt");
 
     inputFile.close();
     wordOutput.close();
